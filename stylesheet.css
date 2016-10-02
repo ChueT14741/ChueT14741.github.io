@@ -2,10 +2,6 @@ body {
 	font: 16px Calibri;
 	background: url(img-noise-361x370.png);}
 
-#pic {
-	float: right;
-}
-
 #button {
 	margin-left: 40%;
 	margin-right: 40%;
