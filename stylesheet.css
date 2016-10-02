@@ -40,7 +40,8 @@ h4 {
 	margin-bottom: 0px;
 	
 }
-border-bottom: 1px solid #999;
+
 h5 {
+	border-top: 1px solid #999;
 	font-size: 28px;
 	float: right;
