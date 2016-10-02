@@ -1,6 +1,6 @@
 body {
 	font: 16px Helvetica, Calibri;
-	background: img-noise-361x370.png;
+	background: url: http://api.thumbr.it/whitenoise-361x370.png?background=b9dcebff&noise=626262&density=40&opacity=29;
 }
 
 #pic {
