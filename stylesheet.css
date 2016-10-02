@@ -38,7 +38,9 @@ h3 {
 h4 {
 	margin-top: 0px;
 	margin-bottom: 0px;
+	
 }
+border-bottom: 1px solid #999;
 h5 {
-	border-bottom: 1px solid #999;
+	font-size: 28px;
 	float: right;
