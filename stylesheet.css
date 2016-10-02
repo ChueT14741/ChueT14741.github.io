@@ -1,7 +1,6 @@
 body {
 	font: 16px Calibri;
-	background: url: http://api.thumbr.it/whitenoise-361x370.png?background=b9dcebff&noise=626262&density=40&opacity=29;
-}
+	background: url(noise.png);}
 
 #pic {
 	float: right;
